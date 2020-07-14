@@ -16,7 +16,7 @@
                 <div class="carousel-item">
                     <img src="img/IMG_8035.jpg" class="d-block img-fluid" alt="banner2">
                     <div class="carousel-caption">
-                        <h5>Create Responsie Web Site</h5>
+                        <h5>Create Responsive WebSite</h5>
                     </div>
                 </div>
                 <div class="carousel-item">

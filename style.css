@@ -47,8 +47,11 @@
     bottom: initial!important;
 }
 .carousel-caption h5{
-    color: #fff;
+    color: #5b8b8b;
     font-size: 50px;
+}
+.carousel-item img{
+    filter: grayscale(6);
 }
 
 /* About */
