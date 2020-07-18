@@ -8,15 +8,15 @@
             </ol>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="img/_MG_7737-1.jpg" class="d-block img-fluid" alt="banner1">
+                    <img src="img/teamfirstin.jpg" class="d-block img-fluid" alt="banner1">
                     <div class="carousel-caption">
-                        <h5>How To make a Web Site</h5>
+                        <h5>How To make a Pictures</h5>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="img/IMG_8035.jpg" class="d-block img-fluid" alt="banner2">
+                    <img src="img/mariage.jpg" class="d-block img-fluid" alt="banner2">
                     <div class="carousel-caption">
-                        <h5>Create Responsive WebSite</h5>
+                        <h5>Create Shoot</h5>
                     </div>
                 </div>
                 <div class="carousel-item">

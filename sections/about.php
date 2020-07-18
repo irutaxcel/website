@@ -13,7 +13,7 @@
                     <button class="btn btn-primary">Read More</button>
                 </div>
                 <div class="col-md-6 skills-bar">
-                    <p>Adobe Photoshop</p>
+                    <p>Adobe</p>
                     <div class="progress">
                         <div class="progress-bar" style="width: 65%;">65%</div>
                     </div>
@@ -21,7 +21,7 @@
                     <div class="progress">
                         <div class="progress-bar" style="width: 75%;">75%</div>
                     </div>
-                    <p>Wordpress</p>
+                    <p>Impression</p>
                     <div class="progress">
                         <div class="progress-bar" style="width: 65%;">65%</div>
                     </div>

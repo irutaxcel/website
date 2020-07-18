@@ -5,7 +5,7 @@
             <div class="row">
                 <div class="col-md-3 profile-pic text-center">
                     <div class="img-box">
-                        <img src="img/pic.jpg" class="img-responsive" alt="team">
+                        <img src="img/odon.jpg" class="img-responsive" alt="odon">
                         <ul>
                             <a href="">
                                 <li><i class="fa fa-facebook"></i></li>
@@ -35,7 +35,7 @@
                 </div>
                 <div class="col-md-3 profile-pic text-center">
                     <div class="img-box">
-                        <img src="img/pic2.jpg" class="img-responsive" alt="team">
+                        <img src="img/bayo.jpg" class="img-responsive" alt="bayo">
                         <ul>
                             <a href="">
                                 <li><i class="fa fa-facebook"></i></li>
@@ -50,7 +50,7 @@
                 </div>
                 <div class="col-md-3 profile-pic text-center">
                     <div class="img-box">
-                        <img src="img/pic3.jpg" class="img-responsive" alt="team">
+                        <img src="img/unknow.jpg" class="img-responsive" alt="unknow">
                         <ul>
                             <a href="">
                                 <li><i class="fa fa-facebook"></i></li>

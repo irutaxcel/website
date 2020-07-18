@@ -33,7 +33,7 @@
     border: none!important;
 }
 .nav-link{
-    color: #555;
+    color: #4ee44d!important;
     font-weight: 600;
     font-size: 16px;
 }
@@ -47,7 +47,7 @@
     bottom: initial!important;
 }
 .carousel-caption h5{
-    color: #5b8b8b;
+    color: #3e97d3;
     font-size: 50px;
 }
 .carousel-item img{
@@ -83,7 +83,7 @@
 /* Services */
 
 #service{
-    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)), url(img/desktop.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)), url(img/eq4.jpg);
     background-size: cover;
     background-position: center;
     color: #efefef!important;
@@ -121,8 +121,8 @@
     margin-top: 20px;
     color: #ccc;
 }
-.service .col-md-3:hover{
-    background: #007bff;
+.service .col-md-2:hover{
+    background: #4ee44d;
     cursor: pointer;
     transition: 0.7s;
 }
